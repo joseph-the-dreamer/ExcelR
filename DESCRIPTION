@@ -4,7 +4,8 @@ Version: 0.1.0
 Authors@R: 
     person(given = "Marcus",
            family = "Joseph",
-           role = c("aut", "cre"))
+           role = c("aut", "cre"),
+           email = "joseph.ma03@gmail.com")
 Description: This package recreates the functionality and syntax of Microsoft Excel in an R environment
 License: MIT
 Encoding: UTF-8
